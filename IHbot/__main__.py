@@ -23,13 +23,11 @@ Hello {}, my name is {}!
 
 I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
 python-telegram-bot library, and am fully opensource - you can find what makes me tick \
-[here](https://github.com/Yash-Garg/IronHyde-Bot)!
+[here](https://github.com/StrangeNoob/ThePhoenix)!
 
 You can find the list of available commands with /help.
 
-[Click here to add me in your groups](https://telegram.me/IronHyde_Bot?startgroup=add)
-
-If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
+if you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 """
 
 HELP_STRINGS = """
